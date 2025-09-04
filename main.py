@@ -21,8 +21,8 @@ from logging.handlers import RotatingFileHandler
 # ========================================
 
 # ВАЖНО: Замените эти значения на свои!
-BOT_TOKEN = "your_bot_token_here"  # Получить от @BotFather
-ADMIN_USERNAME = "@your_telegram_username"  # Ваш логин в Telegram
+BOT_TOKEN = "8244782584:AAG5UOUK-X12MoLMfBkKE53yj-hNTur3IkY"  # Получить от @BotFather
+ADMIN_USERNAME = "@pervld"  # Ваш логин в Telegram
 
 # Настройки бота
 DATABASE_FILE = "users.db"
